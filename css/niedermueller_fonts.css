@@ -1,6 +1,6 @@
 /* Montserrat — Regular (400) */
 @font-face {
-  font-family: "Montserrat";
+  font-family: "Montserrat Nm";
   src: url("https://ruhmgmbh.github.io/website_font_niedermueller/fonts/nm_regular.woff2")
     format("woff2");
   font-weight: 400;
@@ -10,7 +10,7 @@
 
 /* Montserrat — Medium (500) */
 @font-face {
-  font-family: "Montserrat";
+  font-family: "Montserrat Nm";
   src: url("https://ruhmgmbh.github.io/website_font_niedermueller/fonts/nm_medium.woff2")
     format("woff2");
   font-weight: 500;
@@ -20,7 +20,7 @@
 
 /* Montserrat — Bold (700) */
 @font-face {
-  font-family: "Montserrat";
+  font-family: "Montserrat Nm";
   src: url("https://ruhmgmbh.github.io/website_font_niedermueller/fonts/nm_bold.woff2")
     format("woff2");
   font-weight: 700;
